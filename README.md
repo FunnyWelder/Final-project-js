@@ -27,6 +27,7 @@
 В package.json в scripts написать:
 - *build* : webpack
 - *watch* : webpack --mode development --watch  
+
 Собирать проект через *npm run build*  
 Стартовая страница проекта *puzzle/index.html*  
 
