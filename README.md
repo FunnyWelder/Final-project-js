@@ -26,6 +26,6 @@
 Использовать webpack.config.js, который лежит в репозитории.
 В package.json в scripts написать:
 - *build* : webpack
-- *watch* : webpack --mode development --watch
-Собирать проект через *npm run build*
-Стартовая страница проекта @puzzle/index.html@
+- *watch* : webpack --mode development --watch /n
+Собирать проект через *npm run build*/n
+Стартовая страница проекта !puzzle/index.html!
