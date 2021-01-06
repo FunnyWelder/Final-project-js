@@ -2,7 +2,7 @@
 
 ## Задание
 
-Реализовать многостраничное web-приложение, стостоящее минимум из 3 страниц (или landing page).
+Реализовать многостраничное web-приложение, стостоящее минимум из 3 страниц (или landing page).  
 Минимальный стек технологий для приложения: 
   - Nginx/Apache2
   - Http
@@ -21,11 +21,13 @@
   4. Что делает та или иная строка в коде/разметке/стилях?
   
 ## Как собрать проект
-Установить nmp и webpack.
-В webpack скачать следующие библиотеки: css-loader, style-loader ...
-Использовать webpack.config.js, который лежит в репозитории.
+Установить nmp и webpack.  
+В webpack скачать следующие библиотеки: css-loader, style-loader ...  
+Использовать webpack.config.js, который лежит в репозитории.  
 В package.json в scripts написать:
 - *build* : webpack
-- *watch* : webpack --mode development --watch /n
-Собирать проект через *npm run build*/n
-Стартовая страница проекта !puzzle/index.html!
+- *watch* : webpack --mode development --watch  
+Собирать проект через *npm run build*  
+Стартовая страница проекта *puzzle/index.html*  
+
+## Сам сайт fuwe.me/puzzle
