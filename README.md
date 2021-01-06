@@ -30,4 +30,4 @@
 Собирать проект через *npm run build*  
 Стартовая страница проекта *puzzle/index.html*  
 
-## Сам сайт fuwe.me/puzzle
+## Сам сайт https://fuwe.me/puzzle
