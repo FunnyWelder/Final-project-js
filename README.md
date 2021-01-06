@@ -1,4 +1,4 @@
-# Pazzle
+# Puzzle
 
 ## Задание
 
@@ -21,5 +21,11 @@
   4. Что делает та или иная строка в коде/разметке/стилях?
   
 ## Как собрать проект
-установить:
-	
+Установить nmp и webpack.
+В webpack скачать следующие библиотеки: css-loader, style-loader ...
+Использовать webpack.config.js, который лежит в репозитории.
+В package.json в scripts написать:
+- *build* : webpack
+- *watch* : webpack --mode development --watch
+Собирать проект через *npm run build*
+Стартовая страница проекта @puzzle/index.html@
