@@ -36,6 +36,6 @@ npm run build
 ```
 Стартовая страница проекта *puzzle/index.html*  
 
-Пример: https://fuwe.me/puzzle
+Демо сайта: https://fuwe.me/puzzle
 
 ## Как пользоваться
