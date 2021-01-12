@@ -28,7 +28,7 @@
 - ``` build : webpack```
 - ``` watch : webpack --mode development --watch```
 
-Собирать проект через 
+Собирать проект через:
 ```bash
 npm run build
 ```
