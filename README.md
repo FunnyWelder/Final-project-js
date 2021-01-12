@@ -34,4 +34,4 @@ npm run build
 ```
 Стартовая страница проекта *puzzle/index.html*  
 
-## Сам сайт https://fuwe.me/puzzle
+## Демо https://fuwe.me/puzzle
