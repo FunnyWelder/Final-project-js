@@ -25,10 +25,13 @@
 В webpack скачать следующие библиотеки: css-loader, style-loader ...  
 Использовать webpack.config.js, который лежит в репозитории.  
 В package.json в scripts написать:
-- ```bash build : webpack```
-- ```bash watch : webpack --mode development --watch```
+- ``` build : webpack```
+- ``` watch : webpack --mode development --watch```
 
-Собирать проект через *npm run build*  
+Собирать проект через 
+```bash
+npm run build
+```
 Стартовая страница проекта *puzzle/index.html*  
 
 ## Сам сайт https://fuwe.me/puzzle
