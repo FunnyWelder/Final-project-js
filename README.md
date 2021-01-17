@@ -23,7 +23,7 @@
   
 ## Как собрать проект
 Установить в корень проекта jQuery, Npm и WebPack.  
-В webpack скачать следующие библиотеки: css-loader, style-loader и jspn-loader.  
+В webpack скачать следующие библиотеки: css-loader, style-loader и file-loader.  
 Использовать webpack.config.js, который лежит в репозитории.  
 В package.json в scripts написать:
 - ``` build : webpack```
